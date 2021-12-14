@@ -1,5 +1,5 @@
 # justhpscan
-![](https://github.com/DusteDdk/justhpscan/blob/masin/screen.gif)
+![](https://github.com/DusteDdk/justhpscan/blob/main/screen.gif)
 redneck networked scanner sharing
 
 #  Installing on Raspberry Pi OS (and other systemd debian based):
