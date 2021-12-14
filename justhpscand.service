@@ -1,0 +1,13 @@
+[Unit]
+Description=Runs the scanner
+
+[Service]
+Environment=
+Type=simple
+User=pi
+ExecStart=/usr/bin/node /home/pi/justhpscan/main.js
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
+
